@@ -4,8 +4,10 @@ In this step, you will create an initial workspace and a starter app, and run th
 
 1. Create a new folder for your project and navigate to this folder:
 
-`mkdir projects`{{execute}} 
-`cd projects`{{execute}}
+```
+mkdir projects 
+cd projects
+```{{execute}}
 
 2. Create a new angular project using the following command: 
 
@@ -14,7 +16,7 @@ In this step, you will create an initial workspace and a starter app, and run th
 3. Respond to the prompts with following options: 
 
 - ? Would you like to add Angular routing? (y/N) N 
-- ? Which stylesheet format would you like to use? (Use arrow keys) PRESS ENTER (To select the default CSS option)
+- ? Which stylesheet format would you like to use? PRESS ENTER (To select the default CSS option)
 
 4. Navigate into the HelloWorldApp folder. 
 
