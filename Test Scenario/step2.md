@@ -12,8 +12,8 @@ In this step, you will create an initial workspace and a starter app, and run th
 
 3. Respond to the prompts with following options: 
 
-- ? Would you like to add Angular routing? (y/N) N 
-- ? Which stylesheet format would you like to use? PRESS ENTER (To select the default CSS option)
+> - ? Would you like to add Angular routing? (y/N) **N** 
+> - ? Which stylesheet format would you like to use? **PRESS ENTER** (To select the default CSS option)
 
 4. Navigate into the HelloWorldApp folder. 
 
