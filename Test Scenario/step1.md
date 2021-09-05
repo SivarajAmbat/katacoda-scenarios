@@ -1,6 +1,6 @@
 In this step, you will learn to set up your environment for Angular development using the Angular CLI tool.
 
-##Tasks
+## Tasks
 
 1. To check if npm is installed, execute this command:
 
