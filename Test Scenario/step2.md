@@ -28,7 +28,9 @@ cd projects
 
 6. Execute the below command to build and run the Angular project. 
 
-`ng serve`{{execute}}
+`ng serve --host 0.0.0.0 --disable-host-check`{{execute}}
 
-7. Click the + symbol next to the Terminal tab and choose "Select Port to View on Client" and enter 4200 as port number
+Note: The ng serve command launches the server, watches your files, and rebuilds the app as you make changes to those files. In your local setup, you can just execute `ng serve` and view the output at http://localhost:4200/.
+
+7. Click the + symbol next to the Terminal tab and choose "Select Port to View on Client" and enter 4200 as port number. You should be able to see the default Angular application in your browser.
 
