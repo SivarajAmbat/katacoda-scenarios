@@ -4,8 +4,7 @@ In this step, you will create an initial workspace and a starter app, and run th
 
 1. Create a new folder for your project and navigate to this folder:
 
-```
-mkdir projects 
+```mkdir projects 
 cd projects
 ```{{execute}}
 
