@@ -3,7 +3,6 @@ In this step, you will create an initial workspace and a starter app, and run th
 ## Tasks
 
 (1) Create a new folder for your project and navigate to this folder:
-
 ```
 mkdir projects 
 cd projects
